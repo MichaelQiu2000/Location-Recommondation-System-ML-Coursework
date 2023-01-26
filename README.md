@@ -1,6 +1,6 @@
 # Location Recommendation System
 
-### This project constructed three basic recommendation models and then obtained a comprehensive recommendation model
+### This project constructs three basic recommendation models and then obtains a comprehensive recommendation model
 * user-based collaborative filtering model (**not** in this repo)
 * random walk based friend similarity model (in this repo)
 * residence-based personalized geographic location model (**not** in this repo)
